@@ -1,0 +1,26 @@
+{
+    "name": "aiTest",
+    "version": "0.0.0",
+    "description": "a simple test using Yahboom mBit",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.3.10",
+        "Mbit_IR":  "github:lzty634158/yahboom_mbit_IR"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/aiTest-strings.json",
+        "_locales/tw/aiTest-strings.json"
+    ],
+    "testFiles": [
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj",
+    "license": "MIT"
+}

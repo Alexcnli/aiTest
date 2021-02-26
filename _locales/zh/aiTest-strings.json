@@ -1,0 +1,33 @@
+{
+    "aiTestLight.aiTestLED1|block": "LED|pin %pin|狀態 %value",
+    "aiTestLight.aiTestLED2|block": "LED|pin %pin|亮度 %value",
+    "aiTestLight.aiTestBreathLED|block": "呼吸燈|pin %pin",
+    "aiTestLight.aiTestRGB|block": "RGB七彩灯|pinR %pin1|pinG %pin2|pinB %pin3|紅色 %value1|綠色 %value2|藍色 %value3",
+    "aiTestLight.aiTestRGB2|block": "RGB七彩灯|pinR %pin1|pinG %pin2|pinB %pin3|狀態 %value",
+  
+    "aiTestSensor.aiTestVoiceSensor|block": "聲音感應器|pin %pin|檢查 %value",
+    "aiTestSensor.aiTestIRSensor|block": "紅外線感應器|pin %pin|  |%value|障礙物",
+    "aiTestSensor.aiTestIRSend|block": "紅外線輸出|pin %pin",
+    "aiTestSensor.aiTestUltrasonic|block": "超聲波|輸出 %Trig|接收 %Echo",
+  
+    "aiTestMovement.aiTestTouchPad|block": "觸碰開關|pin %pin|檢查 %value",
+    "aiTestMovement.aiTestRocker|block": "搖桿|X %pin1|Y %pin2|SW %pin3|檢查 %value",
+    "aiTestMovement.aiTestButton|block": "按鈕|pin %pin|檢查 %value",
+  
+    "aiTestSound.aiTestBuzzer|block": "蜂鳴器|pin %pin|檢查 %value",
+  
+    "aiTestMotor.aiTestFan|block": "風扇|pin %pin|速度 %value",
+    "aiTestMotor.aiTestServo|block": "伺服馬達|pin %pin|角度 %value",
+  
+    "aiTestCar.aiTestRGBCarBig|block": "RGB車燈|红色 %value1|綠色 %value2|藍色 %value3",
+    "aiTestCar.aiTestRGBCarBig2|block": "RGB車燈|車燈顏色 %value",
+    "aiTestCar.aiTestUltrasonicCar|block": "超聲波距離（cm）",
+    "aiTestCar.aiTestRGBCarProgram|block": "循環變色",
+    "aiTestCar.aiTestMusicCar|block": "音樂播放|%index",
+    "aiTestCar.aiTestLineSensor|block": "線路感應器|檢查 %direct|是 %value",
+    "aiTestCar.aiTestAvoidSensor|block": "障礙感應器|檢查 %value",
+    "aiTestCar.aiTestServoCar|block": "車伺服馬達|編號 %num|角度 %value",
+    "aiTestCar.aiTestCarControl|block": "車向|%index 移動",
+    "aiTestCar.aiTestCarSpeedControl|block": "車向|%index|移動，速度為 %speed"
+  }
+  
